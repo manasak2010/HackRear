@@ -9,17 +9,17 @@ A modular NLP pipeline that extracts **negated clinical findings** from unstruct
 ### Case Viewer
 Browse individual clinical notes, view extracted exclusions with HPO mappings, and export structured data as **GA4GH Phenopackets** or **HL7 FHIR bundles**.
 
-![Case Viewer](docs/screenshots/case_viewer.png)
+<img src="docs/screenshots/case_viewer.png" alt="Case Viewer" style="border-radius: 10px; border: 1px solid #30363d;" />
 
 ### Evaluation Dashboard
 Micro/Macro F1, Precision, and Recall scores with interactive charts — per-case breakdown, scatter plots, and grouped bar comparisons.
 
-![Evaluation Dashboard](docs/screenshots/evaluation_dashboard.png)
+<img src="docs/screenshots/evaluation_dashboard.png" alt="Evaluation Dashboard" style="border-radius: 10px; border: 1px solid #30363d;" />
 
 ### About
 Overview of the pipeline architecture and module responsibilities.
 
-![About](docs/screenshots/about.png)
+<img src="docs/screenshots/about.png" alt="About" style="border-radius: 10px; border: 1px solid #30363d;" />
 
 ---
 
