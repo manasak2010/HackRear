@@ -1,0 +1,760 @@
+[
+  {
+    "case_id": "CASE_001",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "loss of consciousness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0007185",
+            "label": "Loss of consciousness",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizures",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "headaches",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002315",
+            "label": "Headache",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "visual hallucinations",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002367",
+            "label": "Visual hallucination",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "palpitations",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001962",
+            "label": "Palpitations",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m6",
+        "surface": "shortness of breath",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002094",
+            "label": "Dyspnea",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m7",
+        "surface": "syncopal episodes",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001279",
+            "label": "Syncope",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m8",
+        "surface": "REM sleep behavior disorder",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:5200291",
+            "label": "REM sleep behavior disorder",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m9",
+        "surface": "weight loss",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001824",
+            "label": "Weight loss",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m10",
+        "surface": "spasticity",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001257",
+            "label": "Spasticity",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m11",
+        "surface": "rigidity",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002063",
+            "label": "Rigidity",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m12",
+        "surface": "seizures",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m13",
+        "surface": "cardiopulmonary",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0033677",
+            "label": "Acute respiratory distress syndrome",
+            "confidence": 0.9,
+            "match_type": "fuzzy_match"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_002",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "nausea or vomiting",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizures",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "dizziness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002321",
+            "label": "Vertigo",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "weakness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0025406",
+            "label": "Asthenia",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_003",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizure",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "chest pain",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0100749",
+            "label": "Chest pain",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "tremors",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001337",
+            "label": "Tremor",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_004",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "SOB",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "CP",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0100021",
+            "label": "Cerebral palsy",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "seizure-like episodes",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "visual hallucinations",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002367",
+            "label": "Visual hallucination",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "focal deficits",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m6",
+        "surface": "ataxia",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001251",
+            "label": "Ataxia",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m7",
+        "surface": "weakness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0025406",
+            "label": "Asthenia",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m8",
+        "surface": "numbness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0033748",
+            "label": "Hypoesthesia",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_005",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizures",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "tongue biting",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "urinary incontinence",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0000020",
+            "label": "Urinary incontinence",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "head injury",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "palpitations",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001962",
+            "label": "Palpitations",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m6",
+        "surface": "dizziness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002321",
+            "label": "Vertigo",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m7",
+        "surface": "syncope",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001279",
+            "label": "Syncope",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m8",
+        "surface": "neurologic deficits",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_006",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "confusion",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001289",
+            "label": "Confusion",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "visual disturbances",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_007",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "epileptiform discharges",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0011182",
+            "label": "Interictal epileptiform activity",
+            "confidence": 0.9166666666666665,
+            "match_type": "fuzzy_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "focal deficits",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_008",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizure",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "episodes",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "tongue biting",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "postictal",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0100033",
+            "label": "Tics",
+            "confidence": 0.9,
+            "match_type": "fuzzy_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "confusion",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001289",
+            "label": "Confusion",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m6",
+        "surface": "weakness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0025406",
+            "label": "Asthenia",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m7",
+        "surface": "numbness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0033748",
+            "label": "Hypoesthesia",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m8",
+        "surface": "vision loss",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0000572",
+            "label": "Visual loss",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_009",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "LOC",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizure-like activity",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "urinary incontinence",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0000020",
+            "label": "Urinary incontinence",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "neurologic disease",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "chest pain",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0100749",
+            "label": "Chest pain",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m6",
+        "surface": "dyspnea",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0002094",
+            "label": "Dyspnea",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_010",
+    "mapped_exclusions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizures",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.99,
+            "match_type": "label_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m2",
+        "surface": "telemetry",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m3",
+        "surface": "epilepsy",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0001250",
+            "label": "Seizure",
+            "confidence": 0.96,
+            "match_type": "synonym_exact"
+          }
+        ]
+      },
+      {
+        "mention_id": "m4",
+        "surface": "tonic-clonic activity",
+        "hpo_matches": [
+          {
+            "hpo_id": null,
+            "label": null,
+            "confidence": 0.0,
+            "match_type": "no_match"
+          }
+        ]
+      },
+      {
+        "mention_id": "m5",
+        "surface": "focal weakness",
+        "hpo_matches": [
+          {
+            "hpo_id": "HP:0030319",
+            "label": "Weakness of facial musculature",
+            "confidence": 0.8888888888888888,
+            "match_type": "fuzzy_match"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "case_id": "CASE_010",
+  "mapped_exclusions": [
+    {
+      "mention_id": "m1",
+      "surface": "seizures",
+      "hpo_matches": [
+        {
+          "hpo_id": "HP:0001250",
+          "label": "Seizure",
+          "confidence": 0.99,
+          "match_type": "label_exact"
+        }
+      ]
+    },
+    {
+      "mention_id": "m2",
+      "surface": "telemetry",
+      "hpo_matches": [
+        {
+          "hpo_id": null,
+          "label": null,
+          "confidence": 0.0,
+          "match_type": "no_match"
+        }
+      ]
+    },
+    {
+      "mention_id": "m3",
+      "surface": "epilepsy",
+      "hpo_matches": [
+        {
+          "hpo_id": "HP:0001250",
+          "label": "Seizure",
+          "confidence": 0.96,
+          "match_type": "synonym_exact"
+        }
+      ]
+    },
+    {
+      "mention_id": "m4",
+      "surface": "tonic-clonic activity",
+      "hpo_matches": [
+        {
+          "hpo_id": null,
+          "label": null,
+          "confidence": 0.0,
+          "match_type": "no_match"
+        }
+      ]
+    },
+    {
+      "mention_id": "m5",
+      "surface": "focal weakness",
+      "hpo_matches": [
+        {
+          "hpo_id": "HP:0030319",
+          "label": "Weakness of facial musculature",
+          "confidence": 0.8888888888888888,
+          "match_type": "fuzzy_match"
+        }
+      ]
+    }
+  ]
+}

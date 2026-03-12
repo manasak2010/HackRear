@@ -1,0 +1,819 @@
+[
+  {
+    "case_id": "CASE_001",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "loss of consciousness",
+        "negation_cue": "without",
+        "evidence": {
+          "snippet": "Patient reports mild unsteadiness while walking, occasional hand tremors when reaching for objects, and two falls in the past year without loss of consciousness.",
+          "span": [
+            296,
+            317
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizure",
+        "negation_cue": "no history of",
+        "evidence": {
+          "snippet": "No history of seizures, severe headaches, or visual hallucinations.",
+          "span": [
+            333,
+            341
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "headache",
+        "negation_cue": "no history of",
+        "evidence": {
+          "snippet": "No history of seizures, severe headaches, or visual hallucinations.",
+          "span": [
+            350,
+            359
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "visual hallucinations",
+        "negation_cue": "no history of",
+        "evidence": {
+          "snippet": "No history of seizures, severe headaches, or visual hallucinations.",
+          "span": [
+            364,
+            385
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "palpitations",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies chest pain, palpitations, shortness of breath, or syncopal episodes.",
+          "span": [
+            406,
+            418
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m6",
+        "surface": "shortness of breath",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies chest pain, palpitations, shortness of breath, or syncopal episodes.",
+          "span": [
+            420,
+            439
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m7",
+        "surface": "syncopal episodes",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies chest pain, palpitations, shortness of breath, or syncopal episodes.",
+          "span": [
+            444,
+            461
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m8",
+        "surface": "sleep behavior disorder",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "Sleep is generally normal; no reports of REM sleep behavior disorder.",
+          "span": [
+            504,
+            531
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m9",
+        "surface": "weight loss",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "Appetite and weight are stable, with no recent weight loss or gain.",
+          "span": [
+            580,
+            591
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m10",
+        "surface": "spasticity",
+        "negation_cue": "no evidence of",
+        "evidence": {
+          "snippet": "Muscle strength is 5/5 throughout, with no evidence of spasticity or rigidity.",
+          "span": [
+            941,
+            951
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m11",
+        "surface": "rigidity",
+        "negation_cue": "no evidence of",
+        "evidence": {
+          "snippet": "Muscle strength is 5/5 throughout, with no evidence of spasticity or rigidity.",
+          "span": [
+            955,
+            963
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m12",
+        "surface": "seizure",
+        "negation_cue": "no evidence of",
+        "evidence": {
+          "snippet": "Impression: Progressive gait ataxia and action tremor, no evidence of seizures or major cardiopulmonary involvement at this time.",
+          "span": [
+            1059,
+            1067
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m13",
+        "surface": "cardiopulmonary",
+        "negation_cue": "no evidence of",
+        "evidence": {
+          "snippet": "Impression: Progressive gait ataxia and action tremor, no evidence of seizures or major cardiopulmonary involvement at this time.",
+          "span": [
+            1077,
+            1092
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_002",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "nausea or vomiting",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies photophobia, denies nausea or vomiting.",
+          "span": [
+            69,
+            87
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizure",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No seizures.",
+          "span": [
+            92,
+            100
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "dizziness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS otherwise negative for dizziness or weakness.",
+          "span": [
+            155,
+            164
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "weakness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS otherwise negative for dizziness or weakness.",
+          "span": [
+            168,
+            176
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_003",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizure",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "On arrival, no witnessed seizure activity.",
+          "span": [
+            75,
+            82
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "chest pain",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for chest pain.",
+          "span": [
+            163,
+            173
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "tremor",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No tremors noted.",
+          "span": [
+            199,
+            206
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_004",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "SOB",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies SOB, denies CP.",
+          "span": [
+            41,
+            44
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "CP",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies SOB, denies CP.",
+          "span": [
+            53,
+            55
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "seizure-like episodes",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No seizure-like episodes.",
+          "span": [
+            60,
+            81
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "visual hallucinations",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No visual hallucinations.",
+          "span": [
+            86,
+            107
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "focal deficits",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "Neuro exam: no focal deficits, no ataxia.",
+          "span": [
+            124,
+            138
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m6",
+        "surface": "ataxia",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "Neuro exam: no focal deficits, no ataxia.",
+          "span": [
+            140,
+            149
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m7",
+        "surface": "weakness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "Review of systems negative for weakness or numbness.",
+          "span": [
+            182,
+            190
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m8",
+        "surface": "numbness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "Review of systems negative for weakness or numbness.",
+          "span": [
+            194,
+            202
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_005",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizure",
+        "negation_cue": "never",
+        "evidence": {
+          "snippet": "Patient states she has never had seizures.",
+          "span": [
+            85,
+            93
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "tongue biting",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No tongue biting.",
+          "span": [
+            107,
+            120
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "urinary incontinence",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No urinary incontinence.",
+          "span": [
+            125,
+            145
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "head injury",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No head injury.",
+          "span": [
+            150,
+            161
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "palpitations",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for palpitations, dizziness, syncope.",
+          "span": [
+            180,
+            192
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m6",
+        "surface": "dizziness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for palpitations, dizziness, syncope.",
+          "span": [
+            194,
+            203
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m7",
+        "surface": "syncope",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for palpitations, dizziness, syncope.",
+          "span": [
+            205,
+            212
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m8",
+        "surface": "neurologic deficits",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No current neurologic deficits.",
+          "span": [
+            247,
+            266
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_006",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "confusion",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No confusion post-event.",
+          "span": [
+            133,
+            142
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "visual disturbances",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No visual disturbances.",
+          "span": [
+            169,
+            188
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_007",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "epileptiform discharges",
+        "negation_cue": "without",
+        "evidence": {
+          "snippet": "EEG without epileptiform discharges.",
+          "span": [
+            76,
+            99
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "focal deficits",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No focal deficits appreciated.",
+          "span": [
+            115,
+            129
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_008",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizure",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No clear seizure episodes.",
+          "span": [
+            42,
+            49
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "episodes",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No clear seizure episodes.",
+          "span": [
+            50,
+            58
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "tongue biting",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No tongue biting.",
+          "span": [
+            83,
+            96
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "postictal",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No postictal confusion.",
+          "span": [
+            118,
+            127
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "confusion",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No postictal confusion.",
+          "span": [
+            128,
+            137
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m6",
+        "surface": "weakness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for weakness, numbness, vision loss.",
+          "span": [
+            156,
+            164
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m7",
+        "surface": "numbness",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for weakness, numbness, vision loss.",
+          "span": [
+            166,
+            174
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m8",
+        "surface": "vision loss",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for weakness, numbness, vision loss.",
+          "span": [
+            176,
+            187
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_009",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "LOC",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies LOC.",
+          "span": [
+            48,
+            51
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "seizure-like activity",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No seizure-like activity reported.",
+          "span": [
+            56,
+            77
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "urinary incontinence",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No urinary incontinence.",
+          "span": [
+            91,
+            111
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "neurologic disease",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No prior neurologic disease.",
+          "span": [
+            148,
+            166
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "chest pain",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for chest pain or dyspnea.",
+          "span": [
+            218,
+            228
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m6",
+        "surface": "dyspnea",
+        "negation_cue": "negative for",
+        "evidence": {
+          "snippet": "ROS negative for chest pain or dyspnea.",
+          "span": [
+            232,
+            239
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  },
+  {
+    "case_id": "CASE_010",
+    "excluded_mentions": [
+      {
+        "mention_id": "m1",
+        "surface": "seizures",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No seizures observed during telemetry.",
+          "span": [
+            59,
+            67
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m2",
+        "surface": "telemetry",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No seizures observed during telemetry.",
+          "span": [
+            84,
+            93
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m3",
+        "surface": "epilepsy",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No prior history of epilepsy.",
+          "span": [
+            115,
+            123
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m4",
+        "surface": "tonic-clonic activity",
+        "negation_cue": "denies",
+        "evidence": {
+          "snippet": "Denies aura, denies tonic-clonic activity.",
+          "span": [
+            145,
+            166
+          ]
+        },
+        "context": "patient"
+      },
+      {
+        "mention_id": "m5",
+        "surface": "focal weakness",
+        "negation_cue": "no",
+        "evidence": {
+          "snippet": "No focal weakness.",
+          "span": [
+            171,
+            185
+          ]
+        },
+        "context": "patient"
+      }
+    ]
+  }
+]

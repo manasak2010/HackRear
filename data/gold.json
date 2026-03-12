@@ -1,0 +1,132 @@
+[
+  {
+    "case_id": "CASE_001",
+    "excluded": [
+      "seizure",
+      "headache",
+      "visual hallucinations",
+      "chest pain",
+      "palpitations",
+      "syncopal episodes",
+      "shortness of breath",
+      "rem",
+      "sleep behavior disorder",
+      "weight loss",
+      "weight gain",
+      "early-onset neurodegenerative disorder",
+      "epilepsy",
+      "muscular dystrophy",
+      "spasticity",
+      "rigidity",
+      "cardiopulmonary"
+    ]
+  },
+  {
+    "case_id": "CASE_002",
+    "excluded": [
+      "photophobia",
+      "nausea",
+      "vomiting",
+      "seizure",
+      "loss of consciousness",
+      "dizziness",
+      "febrile seizures",
+      "weakness"
+    ]
+  },
+  {
+    "case_id": "CASE_003",
+    "excluded": [
+      "seizure",
+      "incontinence",
+      "headache",
+      "neck stiffness",
+      "chest pain",
+      "tremor",
+      "ataxia",
+      "not metabolic cause"
+    ]
+  },
+  {
+    "case_id": "CASE_004",
+    "excluded": [
+      "SOB",
+      "CP",
+      "seizure",
+      "visual hallucinations",
+      "focal deficits",
+      "ataxia",
+      "weakness",
+      "numbness"
+    ]
+  },
+  {
+    "case_id": "CASE_005",
+    "excluded": [
+      "seizure",
+      "aura",
+      "tongue biting",
+      "urinary incontinence",
+      "head injury",
+      "palpitations",
+      "dizziness",
+      "syncope"
+    ]
+  },
+  {
+    "case_id": "CASE_006",
+    "excluded": [
+      "seizure",
+      "loss of consciousness",
+      "confusion",
+      "ataxia",
+      "visual disturbances"
+    ]
+  },
+  {
+    "case_id": "CASE_007",
+    "excluded": [
+      "seizure",
+      "epileptiform discharges",
+      "fever",
+      "focal deficits"
+    ]
+  },
+  {
+    "case_id": "CASE_008",
+    "excluded": [
+      "seizure",
+      "convulsions",
+      "tongue biting",
+      "incontinence",
+      "postictal confusion",
+      "weakness",
+      "numbness",
+      "vision loss",
+      "abnormal movements"
+    ]
+  },
+  {
+    "case_id": "CASE_009",
+    "excluded": [
+      "loc",
+      "seizure",
+      "urinary incontinence",
+      "convulsions",
+      "neurologic disease",
+      "chest pain",
+      "dyspnea"
+    ]
+  },
+  {
+    "case_id": "CASE_010",
+    "excluded": [
+      "seizures",
+      "epilepsy",
+      "aura",
+      "tonic-clonic activity",
+      "focal weakness",
+      "dizziness"
+    ]
+  }
+]
