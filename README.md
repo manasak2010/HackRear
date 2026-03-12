@@ -33,7 +33,7 @@ Clinical Note  →  Module B (Negation Extraction)  →  Module A (HPO Mapping) 
 |--------|------|----------|
 | **Module B** | Detects negated findings (e.g. *"no seizures"*) using context-aware NLP | spaCy, negspacy |
 | **Module A** | Maps extracted mentions to HPO term IDs via exact + fuzzy matching | `hp.obo` ontology |
-| **Module C** | Computes Micro/Macro F1 against gold annotations | Precision, Recall, F1 |
+| **Module C** | Computes Micro/Macro F1 against manually curated gold annotations | Precision, Recall, F1 |
 | **Dashboard** | Interactive visualization of all results | Streamlit, Altair |
 
 ---
@@ -48,7 +48,7 @@ project/
 │   ├── Module_B.ipynb        # Negation extraction notebook
 │   └── Evaluation.ipynb      # Evaluation notebook
 ├── data/
-│   ├── gold.json             # Gold-standard annotations
+│   ├── gold.json             # Manually curated ground-truth annotations
 │   ├── moduleA_output.json   # Module A output
 │   ├── moduleB_output.json   # Module B output
 │   └── A_dummy.json          # Dummy input data
